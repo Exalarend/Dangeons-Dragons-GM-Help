@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="C:\Users\alex-\OneDrive\Документы">
+  <component name="PublishConfigData" serverName="C:\Users\alex-\OneDrive\Документы" uploadOnCheckin="b3777e49-21fd-46ab-8320-b2c225714d20">
     <serverData>
       <paths name="C:\Users\alex-\OneDrive\Документы">
         <serverdata>
@@ -10,5 +10,6 @@
         </serverdata>
       </paths>
     </serverData>
+    <option name="myUploadOnCheckinName" value="C:\Users\alex-\OneDrive\Документы" />
   </component>
 </project>
